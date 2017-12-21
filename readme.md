@@ -8,7 +8,11 @@ git log - View recent commits
 git remote add origin git@github.com:MAVLGH/react-course-expensify-app.git
 git remote -v
 git push -u origin master
+
 # SSH Commands
 
 ssh-keygen
 ssh - T git@github.com // checking if shh conexion was established with github
+
+# Heroku
+heroku login
