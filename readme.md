@@ -16,3 +16,7 @@ ssh - T git@github.com // checking if shh conexion was established with github
 
 # Heroku
 heroku login
+heroku create react-course-expensify-mmvvll
+git push heroku master
+heroku open
+heroku logs
